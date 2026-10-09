@@ -1,0 +1,5 @@
+# WorkBuddy 工作区数据（记忆、配置等），不纳入版本管理
+.workbuddy/
+
+# macOS
+.DS_Store
